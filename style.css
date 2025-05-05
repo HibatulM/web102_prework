@@ -17,10 +17,18 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    align-items: center;
+    align-content: space-between;
 }
 
 .stats-container {
     display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.stats-container:hover{
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
