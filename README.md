@@ -25,6 +25,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/mtBVURV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Alternative Link: https://youtu.be/MPRVkFgeG0g
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
